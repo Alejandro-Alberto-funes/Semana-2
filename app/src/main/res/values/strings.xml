@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aprendiendo el Uso de Controles Básicos</string>
+    <string name="titulo">CONTROLES BÁSICOS</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">ENVIAR DATOS</string>
+    <string name="siguiente">SIGUIENTE INTERFAZ</string>
+    <string name="determinar">DETERMINAR SI ES MAYOR DE EDAD</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="regresar">REGRESAR</string>
+</resources>
+
